@@ -2,7 +2,7 @@
   "name": "vue-hello-world",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://github.com/151819880412/vue2-cloud.git",
+  "homepage": "https://github.com/151819880412/vue2-cloud.git",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"
